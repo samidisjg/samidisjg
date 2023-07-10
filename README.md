@@ -8,7 +8,7 @@
 samidisjg/samidisjg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi 👋, I'm Samidi Jayawickrama</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Samidi Jayawickrama</h1>
 <h3 align="center">A passionate full stack developer who is currently an undergraduate.</h3>
 
 - 🌱 I’m currently learning **Java, springboot, servlet.**
