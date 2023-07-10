@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on cloud computing technology.
 - 📫 How to reach me  Linkdin : https://www.linkedin.com/in/samidi-jayawickrama-58b450246?
 
-[![Header](mm.png)
+<div align="center">
+<img align="center" alt="GIF" height="150px" src="https://github.com/minosh00/minosh00/blob/main/images/dodgetocat_v2-removebg-preview.png" />
 
 <!---
 samidisjg/samidisjg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
