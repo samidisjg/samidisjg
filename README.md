@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on cloud computing technology.
 - 📫 How to reach me  Linkdin : https://www.linkedin.com/in/samidi-jayawickrama-58b450246?
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
+[![Header](mm.png)
 
 <!---
 samidisjg/samidisjg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
