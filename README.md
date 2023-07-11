@@ -1,8 +1,7 @@
 <div align="center">
 <img align="center" alt="pic" height="150px" src=" jetpacktocat.png" />
  
-<div align="right">
-<img align="right" alt="GIF" height="150px" src="kkk.gif" />
+
 
 <!---
 samidisjg/samidisjg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
