@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @samidi Jayawickrama
-- 👀 I’m interested in technological field.
-- 🌱 I’m currently learning Information Technology specializing in softwareEngineering.
-- 💞️ I’m looking to collaborate on cloud computing technology.
-- 📫 How to reach me  Linkdin : https://www.linkedin.com/in/samidi-jayawickrama-58b450246?
 
 <div align="center">
 <img align="center" alt="GIF" height="150px" src="jetpacktocat.png" />
