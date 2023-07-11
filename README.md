@@ -1,7 +1,6 @@
 <div align="center">
 <img align="center" alt="pic" height="150px" src="jetpacktocat.png" />
-</div>
- 
+
 
 
 <!---
@@ -28,6 +27,6 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samidisjg&show_icons=true&locale=en&layout=compact" alt="samidisjg" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=samidisjg&show_icons=true&locale=en" alt="samidisjg" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samidisjg&show_icons=true&locale=en" alt="samidisjg" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=samidisjg&" alt="samidisjg" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samidisjg&" alt="samidisjg" /></p>
