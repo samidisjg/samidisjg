@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **Java, springboot, servlet.**
 
-- 📝 I regularly write articles on [https://medium.com/@samidisjg](https://medium.com/@samidisjg)
+- 📝 I write blogs on [https://medium.com/@samidisjg](https://medium.com/@samidisjg)
 
 - 📫 How to reach me **https://www.linkedin.com/in/samidi-jayawickrama-58b450246?**
 
