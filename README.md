@@ -3,7 +3,7 @@
 </div>
 
 <div align="right">
-<img align="right" alt="Gif" height="150px" src="kkk.gif" />
+<img align="right" alt="Gif" height="250px" src="kkk.gif" />
 </div>
 
 <!---
