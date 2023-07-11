@@ -1,9 +1,10 @@
 <div align="center">
 <img align="center" alt="pic" height="150px" src="jetpacktocat.png" />
+  <br>
 </div>
 
 <div align="right">
-<img align="right" alt="Gif" height="250px" src="kkk.gif" />
+<img align="right" alt="Gif" height="200px" src="kkk.gif" />
 </div>
 
 <!---
