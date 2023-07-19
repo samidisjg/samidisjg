@@ -14,13 +14,13 @@ You can click the Preview link to take a look at your changes.
 - 📝 I write blogs on [https://medium.com/@samidisjg](https://medium.com/@samidisjg)
 - 📫 How to reach me **https://www.linkedin.com/in/samidi-jayawickrama-58b450246?**
 - 📄 Know about my experiences [https://www.linkedin.com/in/samidi-jayawickrama-58b450246?](https://www.linkedin.com/in/samidi-jayawickrama-58b450246?)
-  <br>
+  <br>  <br>
 <div align="center">
-<img align="center" alt="Gif" width="500px" height="500px" src="kkk.gif" />
+<img align="center" alt="Gif" width="300px" height="500px" src="kkk.gif" />
    <br>
 </div>
 
-<br><br><br><br>
+<br><br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/samidi jayawickrama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samidi jayawickrama" height="30" width="40" /></a>
