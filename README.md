@@ -3,11 +3,6 @@
   <br>
 </div>
 
-<div align="right">
-<img align="center" alt="Gif" height="200px" src="kkk.gif" />
-   <br>
-</div>
-
 <!---
 samidisjg/samidisjg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -19,6 +14,11 @@ You can click the Preview link to take a look at your changes.
 - 📝 I write blogs on [https://medium.com/@samidisjg](https://medium.com/@samidisjg)
 - 📫 How to reach me **https://www.linkedin.com/in/samidi-jayawickrama-58b450246?**
 - 📄 Know about my experiences [https://www.linkedin.com/in/samidi-jayawickrama-58b450246?](https://www.linkedin.com/in/samidi-jayawickrama-58b450246?)
+- 
+<div align="center">
+<img align="center" alt="Gif" height="200px" src="kkk.gif" />
+   <br>
+</div>
 
 <br><br><br><br>
 <h3 align="left">Connect with me:</h3>
