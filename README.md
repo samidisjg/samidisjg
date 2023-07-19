@@ -4,7 +4,7 @@
 </div>
 
 <div align="right">
-<img align="right" alt="Gif" height="200px" src="kkk.gif" />
+<img align="center" alt="Gif" height="200px" src="kkk.gif" />
    <br>
 </div>
 
