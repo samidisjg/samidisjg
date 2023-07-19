@@ -19,8 +19,6 @@ You can click the Preview link to take a look at your changes.
 <img align="center" alt="Gif" width="300px" height="300px" src="kkk.gif" />
    <br>
 </div>
-
-<br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/samidi jayawickrama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samidi jayawickrama" height="30" width="40" /></a>
