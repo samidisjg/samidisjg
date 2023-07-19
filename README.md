@@ -14,9 +14,9 @@ You can click the Preview link to take a look at your changes.
 - 📝 I write blogs on [https://medium.com/@samidisjg](https://medium.com/@samidisjg)
 - 📫 How to reach me **https://www.linkedin.com/in/samidi-jayawickrama-58b450246?**
 - 📄 Know about my experiences [https://www.linkedin.com/in/samidi-jayawickrama-58b450246?](https://www.linkedin.com/in/samidi-jayawickrama-58b450246?)
-- 
+
 <div align="center">
-<img align="center" alt="Gif" height="200px" src="kkk.gif" />
+<img align="center" alt="Gif" width="300px" height="200px" src="kkk.gif" />
    <br>
 </div>
 
