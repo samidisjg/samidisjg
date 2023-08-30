@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 - 📄 Know about my experiences [https://www.linkedin.com/in/samidi-jayawickrama-58b450246?](https://www.linkedin.com/in/samidi-jayawickrama-58b450246?)
   <br>  <br>
 <div align="center">
-<img align="center" alt="Gif" width="500px" height="300px" src="kkk.gif" />
+<img align="center" alt="Gif" width="500px" height="300px" src="sami.gif" />
    <br>
 </div>
 <h3 align="left">Connect with me:</h3>
