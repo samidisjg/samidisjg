@@ -28,10 +28,10 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Languages and Tools:</h3>
 <div>
-  <p align="center"> 
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-      <img src="https://github.com/ramindu-Nimex/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50"/> 
-    </a> 
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://github.com/samidisjg/skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
       <img src="https://github.com/ramindu-Nimex/skill-icons/blob/main/icons/C.svg" alt="c" width="50" height="50"/> 
     </a> 
