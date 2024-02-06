@@ -98,9 +98,6 @@ You can click the Preview link to take a look at your changes.
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
       <img  alt="TailwindCSS" height="50px" src="https://github.com/ramindu-Nimex/skill-icons/blob/main/icons/TailwindCSS-Dark.svg"/>
     </a>
-    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-      <img  alt="Sass" height="50px" src="https://github.com/ramindu-Nimex/skill-icons/blob/main/icons/Sass.svg"/> 
-    </a> 
     <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
       <img  alt="Kotlin" height="50px"src="https://github.com/ramindu-Nimex/skill-icons/blob/main/icons/Kotlin-Dark.svg"/>
     </a>
