@@ -113,9 +113,7 @@ You can click the Preview link to take a look at your changes.
     <a href="https://svelte.dev" target="_blank" rel="noreferrer"> 
       <img src="https://github.com/ramindu-Nimex/skill-icons/blob/main/icons/Svelte.svg" alt="svelte" width="50" height="50"/> 
     </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://github.com/ramindu-Nimex/skill-icons/blob/main/icons/Linux-Light.svg" alt="linux" width="50" height="50"/> 
-    </a> 
+   
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
       <img  alt="Figma" height="50px" src="https://github.com/ramindu-Nimex/skill-icons/blob/main/icons/Figma-Dark.svg"/> 
     </a> 
