@@ -30,13 +30,13 @@ You can click the Preview link to take a look at your changes.
 <div>
   <p align="center"> 
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-      <img src="https://github.com/ramindu-Nimex/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50"/> 
+      <img src="https://github.com/samidisjg/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50"/> 
     </a> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://github.com/ramindu-Nimex/skill-icons/blob/main/icons/C.svg" alt="c" width="50" height="50"/> 
+      <img src="https://github.com/samidisjg/skill-icons/blob/main/icons/C.svg" alt="c" width="50" height="50"/> 
     </a> 
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-      <img src="https://github.com/ramindu-Nimex/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="50" height="50"/> 
+      <img src="https://github.com/samidisjg/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="50" height="50"/> 
     </a> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
       <img src="https://github.com/ramindu-Nimex/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/> 
