@@ -114,12 +114,6 @@ You can click the Preview link to take a look at your changes.
       <img src="https://github.com/ramindu-Nimex/skill-icons/blob/main/icons/Svelte.svg" alt="svelte" width="50" height="50"/> 
     </a>
    
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-      <img  alt="Figma" height="50px" src="https://github.com/ramindu-Nimex/skill-icons/blob/main/icons/Figma-Dark.svg"/> 
-    </a> 
-    <!--<a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-      <img  alt="Canva" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
-    </a> -->
   </p>
 </div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samidisjg&show_icons=true&locale=en&layout=compact" alt="samidisjg" /></p>
