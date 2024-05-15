@@ -110,11 +110,20 @@ You can click the Preview link to take a look at your changes.
    
   </p>
 </div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samidisjg&show_icons=true&locale=en&layout=compact" alt="samidisjg" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samidisjg&show_icons=true&locale=en" alt="samidisjg" /></p>
+---
 
-<center>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samidisjg&" alt="samidisjg" /></p>
-</center>
+### :fire: My Stats :
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samidisjg&show_icons=true&locale=en&layout=compact" alt="samidisjg" /></p> -->
+
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samidisjg&show_icons=true&locale=en" alt="samidisjg" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samidisjg&" alt="samidisjg" /></p> -->
+
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=samidisjg&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Ramindu github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samidisjg&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" /></a> |
+  | ------------- | ------------- |
+
+  ![GitHub Streak](https://streak-stats.demolab.com?user=samidisjg&count_private=true&public=true&theme=algolia&border_radius=20) 
+
 </div>
